@@ -1,1 +1,0 @@
-D:\Git Repository\App1\App1\App1.WindowsPhone\App1.WindowsPhone.csproj;neutral
